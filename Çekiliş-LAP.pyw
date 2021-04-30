@@ -79,7 +79,7 @@ kazanan=Label(text="Henüz Belirlenmedi")
 kazanan.place(x=240,y=221)
 
 
-author=Label(text="Kişi listesi içerisinden rasgele bir isim seçer. Program .txt dosyalarında sorunsuz çalışmaktadır.\nYazan: Şerif İnanır")
+author=Label(text="Kişi listesi içerisinden rasgele bir isim seçer. Program .txt dosyalarında sorunsuz çalışmaktadır.\nYazan: AlavereVintage")
 author.place(x=50,y=280)
 
 mainloop()
